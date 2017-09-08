@@ -1,0 +1,7 @@
+Pour demarrer l'application, SVP suivre les etapes suivantes:
+  1- run SACA interface pour lancer le serveur
+  2- run Vol interface: pour que le serveur detecte un nouveau vol.
+  3- run Radar interface: pour afficher l'etat ou l'information de chaque vol.
+  4- run Controleur interface: pour controller l'echangement des vols.
+  
+  N.B: l'interface SACA ne peut etre lancer qu'une seule fois.
